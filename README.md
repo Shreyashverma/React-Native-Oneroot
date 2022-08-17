@@ -1,5 +1,5 @@
 # React-Native-OnerootUI
- 
+Check out "Oneroot.jpg" (For the App Preview) 
 This is a React Native based Mobile Application Project I have recently created for a client. I have designed this UI from scratch on Figma and then developed it into a Mobile Application using React Native Expo CLI.
 
 Features highlight:-
